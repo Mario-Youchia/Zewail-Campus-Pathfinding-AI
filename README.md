@@ -53,7 +53,7 @@ The campus picture is viewed as a search grid by the application. Each pixel col
 
 The desktop GUI has two workflows for destination entry:
 
-* Provide a target (x, y) position to coordinate routing.
+* Provide a target `(x, y)` position to coordinate routing.
 * Room/Building based routing by lookup sheet in `Rooms.xlsx`.
 
 The project also contains non-GUI scripts that directly output routes from the algorithm code, allowing for easier review of the visual results without having to start the full interface.
